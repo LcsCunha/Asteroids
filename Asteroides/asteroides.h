@@ -1,0 +1,1 @@
+void game (); //Primal function of the game

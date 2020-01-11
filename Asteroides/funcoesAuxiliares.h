@@ -1,0 +1,1 @@
+void clean_stdin(void); //Function that clears the buffer for another input
