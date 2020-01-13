@@ -1,1 +1,1 @@
-void game (); //Primal function of the game
+void gameGenerator (); //Primal function of the game

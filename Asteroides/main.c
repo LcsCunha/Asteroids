@@ -7,7 +7,7 @@
 
 int main(){
     
-    game(); //Primal function of the game
+    gameGenerator(); //Primal function of the game
 
     return 0;
 
